@@ -32,16 +32,16 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6281349277979', '️Oᴡɴᴇʀ One', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Two', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Three', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Four', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Five', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Six', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Seven', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Eight', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Nine', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Teen', true]
+  ['62882006212045', '️Oᴡɴᴇʀ One', true],
+  ['62882006212045', '️Oᴡɴᴇʀ Two', true],
+  ['62882006212045', '️Oᴡɴᴇʀ Three', true],
+  ['62882006212045', '️Oᴡɴᴇʀ Four', true],
+  ['62882006212045', '️Oᴡɴᴇʀ Five', true],
+  ['62882006212045', '️Oᴡɴᴇʀ Six', true],
+  ['62882006212045', '️Oᴡɴᴇʀ Seven', true],
+  ['62882006212045', '️Oᴡɴᴇʀ Eight', true],
+  ['62882006212045', '️Oᴡɴᴇʀ Nine', true],
+  ['62882006212045', '️Oᴡɴᴇʀ Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -105,16 +105,16 @@ global.xteamkey = 'NezukoTachibana281207'
 /*Number*/
 global.nomorbot = '6283125701141'
 global.nomorown = '6281349277979' 
-global.namebot = '𝗗𝗮𝗽𝗮-𝗕𝗢𝗧𝗭'
-global.nameown = '「𝘿𝙖𝙥𝙖 𝙈𝙖𝙠𝙚𝙧」'
+global.namebot = 'Aisyah-MultiDevice'
+global.nameown = '「 𝙆 𝙝 𝙖 𝙖 | The Darkness 」'
 
 /*Watermark*/
-global.wm = '❖ 𝗗𝗮𝗽𝗮-𝗕𝗢𝗧𝗭 | 𝘿𝙖𝙥𝙖 𝙈𝙖𝙠𝙚𝙧 ❖'
+global.wm = '❖ Aisyah-MD | 𝙆 𝙝 𝙖 𝙖 | The Darkness ❖'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝗗𝗮𝗽aMD'
+global.wm3 = '⫹⫺ Aisyah-MD'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Dapa Maker`
+global.titlebot = `⫹⫺ WhatsApp Bot | By 𝙆𝙝𝙖𝙖TheDarkness`
 
 /*Thumbnail*/
 global.thumbnail = 'https://telegra.ph/file/1139eacb233c973c35ddb.jpg'
